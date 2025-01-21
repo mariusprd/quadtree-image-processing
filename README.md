@@ -10,8 +10,6 @@
 - [Examples](#examples)
 - [Makefile Details](#makefile-details)
 - [Tasks Overview](#tasks-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -127,19 +125,4 @@ clean:
 
 ### Task 3: Image Mirroring
 - **Description:** Performs horizontal or vertical mirroring of the image by adjusting the quadtree structure. The mirrored image is then reconstructed and saved as a PPM file.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Submit a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to reach out for any questions or suggestions via the Issues section!
 
